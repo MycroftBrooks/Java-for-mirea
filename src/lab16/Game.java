@@ -2,6 +2,7 @@ package lab16;
 
 import java.util.Stack;
 
+
 public class Game {
     Stack<Integer> fp, sp;
 
